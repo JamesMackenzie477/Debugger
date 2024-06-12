@@ -1,0 +1,9 @@
+﻿  Source.cpp
+Source.cpp(23): warning C4312: 'type cast': conversion from 'unsigned int' to 'LPVOID' of greater size
+  Generating code
+  4 of 101 functions ( 4.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Debugger.vcxproj -> D:\Projects\C++\Debugger\x64\Release\Debugger.exe
+  Debugger.vcxproj -> D:\Projects\C++\Debugger\x64\Release\Debugger.pdb (Full PDB)
